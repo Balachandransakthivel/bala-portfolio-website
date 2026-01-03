@@ -4,6 +4,7 @@ import VisualEditsMessenger from "../visual-edits/VisualEditsMessenger";
 import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 import { ThemeProvider } from "@/components/ThemeProvider";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   title: "Balachandran S | Portfolio",
@@ -46,6 +47,7 @@ export default function RootLayout({
           {children}
         </ThemeProvider>
         <VisualEditsMessenger />
+        <Analytics />
       </body>
     </html>
   );
