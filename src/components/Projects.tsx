@@ -11,7 +11,7 @@ const projects = [
     subtitle: "Learning AI Web Application",
     description:
       "Implemented an AI-driven content recommendation feature to personalize user experiences. Designed backend logic with structured data handling and containerized the application using Docker.",
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+    image: "https://image2url.com/r2/default/images/1768282277728-e9f16250-f070-4df3-88d8-9aa9480b621b.png    ",
     tech: ["React", "TypeScript", "Vite", "Tailwind CSS", "Supabase"],
     github: "https://github.com/Balachandransakthivel/levelup-ai.git",
     live: "https://levelup-learning-ai.vercel.app/",
@@ -21,7 +21,7 @@ const projects = [
     subtitle: "Restaurant Website",
     description:
       "Designed responsive website with React components for Home, Menu, About, and Contact sections. Implemented modern UI layouts and responsive design principles.",
-    image: "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&h=600&fit=crop",
+    image: "https://image2url.com/r2/default/images/1768282334315-027578a4-d414-4916-a60b-7195c0d6e23a.png",
     tech: ["HTML", "CSS", "JavaScript", "React", "Vercel"],
     github: "https://github.com/Balachandransakthivel/cafesoftware.git",
     live: "https://cafesoftware.vercel.app/",
@@ -31,10 +31,10 @@ const projects = [
     subtitle: "Web Speech Application",
     description:
       "Implemented the Web Speech API to convert user-provided text into natural-sounding speech. Developed a React-based UI with multiple voice and language selection options.",
-    image: "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=800&h=600&fit=crop",
-    tech: ["JavaScript", "Web Speech API", "HTML", "CSS", "React"],
-    github: "https://github.com/Balachandransakthivel",
-    live: null,
+    image: "https://image2url.com/r2/default/images/1768282386090-82bcf6bb-30e4-4930-bcdd-193fa4dbae69.png",
+    tech: ["React, Next.js, JavaScript, TypeScript, Web Speech API"],
+    github: "https://github.com/Balachandransakthivel/react-text-to-speech-app",
+    live: "https://react-text-to-speech-app.vercel.app/",
   },
 ];
 
